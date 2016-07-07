@@ -1,2 +1,1 @@
-miyachang dayo
-XD
+miyachang dayoXD
