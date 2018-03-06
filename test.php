@@ -1,2 +1,2 @@
 <?php
-echo "mac de test";
+echo "mac de testd";
